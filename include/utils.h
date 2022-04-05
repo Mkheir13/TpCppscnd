@@ -6,7 +6,7 @@
 
 int askIntInput(const std::string prompt);
 int askCharInput(const std::string prompt);
-void affiche(int *a);
+void affiche(int *ptr_a);
 void constructeur(int *a);
 void destructeur(int *a);
 void menu();

@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "untitled::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-untitled-Debug-353bf98a3298ca9af7b8.json",
+					"jsonFile" : "target-untitled-Debug-31b69520e8f69e2081e0.json",
 					"name" : "untitled",
 					"projectIndex" : 0
 				}
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/kheir/CLionProjects/CppScndTp/cmake-build-debug",
-		"source" : "C:/Users/kheir/CLionProjects/CppScndTp"
+		"build" : "C:/Users/kheir/CLionProjects/CppScndTp/TpCppscnd/cmake-build-debug",
+		"source" : "C:/Users/kheir/CLionProjects/CppScndTp/TpCppscnd"
 	},
 	"version" : 
 	{

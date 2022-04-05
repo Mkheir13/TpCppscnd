@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/kheir/CLionProjects/CppScndTp/cmake-build-debug"
+			"value" : "c:/Users/kheir/CLionProjects/CppScndTp/TpCppscnd/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -623,7 +623,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/kheir/CLionProjects/CppScndTp"
+			"value" : "C:/Users/kheir/CLionProjects/CppScndTp/TpCppscnd"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1239,7 +1239,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/kheir/CLionProjects/CppScndTp/cmake-build-debug"
+			"value" : "C:/Users/kheir/CLionProjects/CppScndTp/TpCppscnd/cmake-build-debug"
 		},
 		{
 			"name" : "untitled_IS_TOP_LEVEL",
@@ -1263,7 +1263,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/kheir/CLionProjects/CppScndTp"
+			"value" : "C:/Users/kheir/CLionProjects/CppScndTp/TpCppscnd"
 		}
 	],
 	"kind" : "cache",
